@@ -1,4 +1,4 @@
-# 🌿 Smar Plant Monitor & Auto Watering System
+# 🌿 Smart Plant Monitor & Auto Watering System
 
 This project implements a complete IoT-based smart irrigation system using an UNO R4, MQTT messaging, Telegraf with Podman, InfluxDB, and Grafana dashboards. The system monitors environmental conditions in real time and predicts pump usage for maintenance planning.
 
